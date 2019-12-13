@@ -1,0 +1,8 @@
+weakpassword
+strongdog
+mycat
+herpassword
+hiscat
+nothing
+password
+everything
